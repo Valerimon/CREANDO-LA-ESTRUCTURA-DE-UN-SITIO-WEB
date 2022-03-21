@@ -1,0 +1,19 @@
+{
+  "name": "clase-11.-creando-la-estructura-de-un-sitio-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Valerimon/CREANDO-LA-ESTRUCTURA-DE-UN-SITIO-WEB.git"
+  },
+  "author": "Valeria Moncada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerimon/CREANDO-LA-ESTRUCTURA-DE-UN-SITIO-WEB/issues"
+  },
+  "homepage": "https://github.com/Valerimon/CREANDO-LA-ESTRUCTURA-DE-UN-SITIO-WEB#readme"
+}
